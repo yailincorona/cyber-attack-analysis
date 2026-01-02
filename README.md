@@ -19,4 +19,5 @@ Understanding global cyber security attack patterns to inform security investmen
 - The two industries that had the most attacks were the banking and IT industries. This helps encourage companies within these industries to put an extra initiative into their cybersecurity protocols
 -
 
+ ## Project Structure
 `code/DAT301-Project1.Rmd` — R Markdown file containing the full analysis, code, and commentary
