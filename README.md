@@ -18,3 +18,5 @@ Understanding global cyber security attack patterns to inform security investmen
 - The most common types of attacks were phishing and DDoS, This helps companies focus their training and security focuses on these two areas while maintaining against all other forms. 
 - The two industries that had the most attacks were the banking and IT industries. This helps encourage companies within these industries to put an extra initiative into their cybersecurity protocols
 -
+
+`code/DAT301-Project1.Rmd` — R Markdown file containing the full analysis, code, and commentary
