@@ -1,0 +1,7 @@
+cyber-attack-analysis/
+├── code/DAT301-Project1.Rmd
+├── outputs/
+├── data/
+│   └── () 
+├── README.md
+└── .gitignore
