@@ -35,6 +35,17 @@ Dataset download instructions are provided in:
 
 ## Repository Structure
 cyber-attack-analysis/
+|-- code/
+| |-- DAT301-Project1.Rmd
+|-- data/
+| |-- dataset-link.md
+|-- outputs/
+| |-- DAT301-Project1.html
+| |-- attacks_by_country.png
+| |-- attack_types.png
+| |-- attacks_by_industry.png
+| |-- attacks_over_time.png
+|-- README.md
 
 ---
 
