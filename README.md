@@ -21,3 +21,5 @@ Understanding global cyber security attack patterns to inform security investmen
 
  ## Project Structure
 `code/DAT301-Project1.Rmd` — R Markdown file containing the full analysis, code, and commentary
+
+[View Full Analysis Report (HTML)](outputs/DAT301-Project1.html)
