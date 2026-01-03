@@ -58,7 +58,24 @@ Some insights explored in this project include:
 - Most common types of cyber atacks globally
 - Industries most vulnerable to cyber threats
 - Variation in finncial losses and number of affected users
-- Trends in respinse time over the 10-year perios
+- Trends in response time over the 10-year period
+
+## Selected Visualizations
+### Cyber Attacks by Country
+This chart shows the distribution of reported cyber attacks across countries between 2015-2024.
+![Cyber Attacks by Countries](outputs/attacks_by_country.png)
+
+### Most Common Attack Types
+A breakdown of the most frequently observed cyber attack methods.
+![Attack Types](outputs/attack_types.png)
+
+### Attack by Industry
+Industries most affected by cyber attacks over the 10-year period.
+![Attack by Industry](outputs/attacks_by_industry.png)
+
+### Attacks Over Time
+An overview of the attacks per country across the 10 year period for each country. 
+![Attacks Over Time](outputs/attacks_over_time.png)
 
 (See HTML report for detailed results and visualizations)
 
