@@ -1,7 +1,7 @@
 # Cyber Attack Analysis (2015-2024)
 
 ## Project Objective
-Understanding global cyber security attack patterns to inform security investment decisions
+Understanding global cyber security attack patterns to inform security investment decisions.
 
 ## Tools and Technologies
 - R / RStudio
