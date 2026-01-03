@@ -6,7 +6,11 @@ Understanding global cyber security attack patterns to inform security investmen
 ## Tools and Technologies
 - R / RStudio
 - tidyverse (dplyr, ggplot2)
-- Data Source: Kaggle Global Cybersecurity Threats https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
+- Data Source: Kaggle "Global Cybersecurity Threats (2015-2024)" https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
+
+## Dataset
+- Data sourced from Kaggle.
+- See `data?dataset-link.md` for download instructions
 
 ## Process Summary
 1. Data acquisition & cleaning
