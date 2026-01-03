@@ -1,16 +1,48 @@
 # Cyber Attack Analysis (2015-2024)
 
-## Project Objective
-Understanding global cyber security attack patterns to inform security investment decisions.
+**Author:** Yailin Corona-Ruezga
+**Degree Program:** Data Science
+
+---
+
+## Project Overview
+This project analyzes global cybersecurity attack data from **2015 to 2024** to identify trends across countries, industries, and attack types. The analysis focuses on understanding where attacks are most frequent, which industries are most impacted, and how factors such as financial loss, affected users, and response time vary over time. 
+
+This project was completed as a part of DAT301 and has been refined for portfolio presentation. 
+
+---
+
+## Objectives 
+- Identify countries with the highest frequency of cyber attacks
+- Analyze the most common attack types
+- Examine which industries are most affected
+- Explore trends in financial loss, affected users, and response time
+- Practice reproducible data analysis using R and R Markdown
+  
+---
 
 ## Tools and Technologies
 - R / RStudio
 - tidyverse (dplyr, ggplot2)
-- Data Source: Kaggle "Global Cybersecurity Threats (2015-2024)" https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
 
 ## Dataset
-- Data sourced from Kaggle.
-- See `data?dataset-link.md` for download instructions
+The dataset used in this project is 88global Cybersecurity Threats (2015-2024)**, sourced from Kaggle. 
+
+Dataset download instructions are provided in:
+`data?dataset-link.md` 
+
+---
+
+## Repository Structure
+cyber-attack-analysis/
+
+---
+
+## Full Analysis Report
+The complete analysis including code, visualizations, and written interpretation, is available as an HTML report:
+**[View the full HTML report](outputs/DAT301-Project1.html)**
+
+---
 
 ## Process Summary
 1. Data acquisition & cleaning
@@ -18,12 +50,23 @@ Understanding global cyber security attack patterns to inform security investmen
 3. Advanced analysis: model / clustering / insights
 4. Visualizations & findings
 
-## Key Results & Insights
-- The most common types of attacks were phishing and DDoS, This helps companies focus their training and security focuses on these two areas while maintaining against all other forms. 
-- The two industries that had the most attacks were the banking and IT industries. This helps encourage companies within these industries to put an extra initiative into their cybersecurity protocols
--
+---
 
- ## Project Structure
-`code/DAT301-Project1.Rmd` — R Markdown file containing the full analysis, code, and commentary
+## Key Insights
+Some insights explored in this project include:
+- Differences in cyber attack frequency across countries
+- Most common types of cyber atacks globally
+- Industries most vulnerable to cyber threats
+- Variation in finncial losses and number of affected users
+- Trends in respinse time over the 10-year perios
 
-[View Full Analysis Report (HTML)](outputs/DAT301-Project1.html)
+(See HTML report for detailed results and visualizations)
+
+---
+
+## How to Reproduce This Analysis
+1. Download the dataset using the instructions in `data/dataset-link.md`
+2. Open `code/Dat301-Project1.Rmd` in RStudio
+3. Install required packages:
+   ```r
+   install.packages(c("tidyverse", "janitor", "rmarkdown"))
